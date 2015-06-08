@@ -1,0 +1,1 @@
+return require('lib.loveframes.third-party.middleclass')
